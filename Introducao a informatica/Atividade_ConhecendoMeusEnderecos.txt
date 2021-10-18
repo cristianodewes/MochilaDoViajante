@@ -1,8 +1,8 @@
 Dados os nossos endereços IP e máscaras de sub-rede, responda às seguintes perguntas:
-IP privado = 192.168.2.106
-IP público = 177.11.193.65
+IP privado = 
+IP público = 
 Máscara de Sub-rede = 255.255.255.0
-MAC = 74:D4:35:83:9C:56
+MAC = 
 
 
 Os IPs público e privado pertencem à qual classe de rede?
